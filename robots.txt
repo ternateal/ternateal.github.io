@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ternateal.github.io/sitemap.html.gz
+Sitemap: https://ternateal.github.io/app/sitemap.html.gz
+Sitemap: https://ternateal.github.io/assets/sitemap.html.gz
+Sitemap: https://ternateal.github.io/css/sitemap.html.gz
+Sitemap: https://ternateal.github.io/includes/sitemap.html.gz
+Sitemap: https://ternateal.github.io/item/sitemap.html.gz
+Sitemap: https://ternateal.github.io/src/sitemap.html.gz
